@@ -1,4 +1,4 @@
-// packageJsonのscript内のStartを初めにdevに変更する,nodeをnodemonに書き換える
+// packageJsonのscript内のStartを初めにdevに変更する,nodeをnodemonに書き換える npm run dev
 const express = require("express");
 const app = express();
 const mongoose = require("mongoose");
